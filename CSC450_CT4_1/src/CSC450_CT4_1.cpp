@@ -2,7 +2,7 @@
  * CSC450_CT4_1.cpp
  *
  *  Created on: Jun 6, 2020
- *      Author: Fred Shattell
+ *      Author: 303 Composites
  *
  */
 
